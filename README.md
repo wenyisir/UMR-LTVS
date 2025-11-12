@@ -1,3 +1,3 @@
 # UMR-LTVS
 
-~/papers
+See the full paper in /paper.pdf
